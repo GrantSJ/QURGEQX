@@ -7,6 +7,7 @@
 # TOTAL: 77
 # DOMAIN,xp.apple.com 
 # DOMAIN-SUFFIX,mesu.apple.com
+# DOMAIN-SUFFIX,gdmf.apple.com
 
 DOMAIN,appldnld-cdn.apple.com.akadns.net
 DOMAIN,appldnld-cdn.origin-apple.com.akadns.net
@@ -76,7 +77,6 @@ DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
-DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
