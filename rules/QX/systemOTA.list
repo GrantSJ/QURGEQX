@@ -6,6 +6,7 @@
 # HOST-SUFFIX: 13
 # TOTAL: 90
 # HOST,xp.apple.com,SystemOTA
+# HOST,mesu.apple.com,REJECT
 
 
 HOST,appldnld-cdn.apple.com.akadns.net,REJECT
@@ -44,7 +45,6 @@ HOST,iphonesubmissions.g.aaplimg.com,REJECT
 HOST,mesu-cdn.apple.com.akadns.net,REJECT
 HOST,mesu-cdn.origin-apple.com.akadns.net,REJECT
 HOST,mesu-lb.apple.com.akadns.net,REJECT
-HOST,mesu.apple.com,REJECT
 HOST,mesu.apple.com.akadns.net,REJECT
 HOST,mesu.apple.com.mwcname.com,REJECT
 HOST,mesu.g.aaplimg.com,REJECT
