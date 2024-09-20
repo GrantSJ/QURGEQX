@@ -7,6 +7,7 @@
 # TOTAL: 90
 # HOST,xp.apple.com,SystemOTA
 # HOST,mesu.apple.com,REJECT
+# HOST,gdmf.apple.com,REJECT
 
 
 HOST,appldnld-cdn.apple.com.akadns.net,REJECT
@@ -20,7 +21,6 @@ HOST,configuration.apple.com,REJECT
 HOST,gdmf-cdn.apple.com.akadns.net,REJECT
 HOST,gdmf-cdn.origin-apple.com.akadns.net,REJECT
 HOST,gdmf-lb.apple.com.akadns.net,REJECT
-HOST,gdmf.apple.com,REJECT
 HOST,gdmf.apple.com.akadns.net,REJECT
 HOST,gdmf.apple.com.mwcname.com,REJECT
 HOST,gdmf.g.aaplimg.com,REJECT
