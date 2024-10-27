@@ -5,9 +5,9 @@
 # HOST: 78
 # HOST-SUFFIX: 13
 # TOTAL: 90
-# HOST,xp.apple.com,SystemOTA
-# HOST,mesu.apple.com,REJECT
-# HOST,gdmf.apple.com,REJECT
+HOST,xp.apple.com,SystemOTA
+HOST,mesu.apple.com,REJECT
+HOST,gdmf.apple.com,REJECT
 
 HOST,appldnld-cdn.apple.com.akadns.net,REJECT
 HOST,appldnld-cdn.origin-apple.com.akadns.net,REJECT
