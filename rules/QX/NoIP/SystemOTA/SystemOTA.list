@@ -1,0 +1,98 @@
+# NAME: SystemOTA
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:14:52
+# HOST: 78
+# HOST-SUFFIX: 13
+# TOTAL: 90
+# HOST,xp.apple.com,SystemOTA
+# HOST,mesu.apple.com,REJECT
+# HOST,gdmf.apple.com,REJECT
+
+HOST,appldnld-cdn.apple.com.akadns.net,REJECT
+HOST,appldnld-cdn.origin-apple.com.akadns.net,REJECT
+HOST,appldnld-lb.apple.com.akadns.net,REJECT
+HOST,appldnld.apple.com,REJECT
+HOST,appldnld.apple.com.akadns.net,REJECT
+HOST,appldnld.apple.com.mwcname.com,REJECT
+HOST,appldnld.g.aaplimg.com,REJECT
+HOST,configuration.apple.com,REJECT
+HOST,gdmf-cdn.apple.com.akadns.net,REJECT
+HOST,gdmf-cdn.origin-apple.com.akadns.net,REJECT
+HOST,gdmf-lb.apple.com.akadns.net,REJECT
+HOST,gdmf.apple.com.akadns.net,REJECT
+HOST,gdmf.apple.com.mwcname.com,REJECT
+HOST,gdmf.g.aaplimg.com,REJECT
+HOST,gg-cdn.apple.com.akadns.net,REJECT
+HOST,gg-cdn.origin-apple.com.akadns.net,REJECT
+HOST,gg-lb.apple.com.akadns.net,REJECT
+HOST,gg.apple.com,REJECT
+HOST,gg.apple.com.akadns.net,REJECT
+HOST,gg.apple.com.mwcname.com,REJECT
+HOST,gg.g.aaplimg.com,REJECT
+HOST,gnf-mdn.apple.com,REJECT
+HOST,gnf-mr.apple.com,REJECT
+HOST,gs.apple.com,REJECT
+HOST,ig.apple.com,REJECT
+HOST,iphonesubmissions-cdn.apple.com.akadns.net,REJECT
+HOST,iphonesubmissions-cdn.origin-apple.com.akadns.net,REJECT
+HOST,iphonesubmissions-lb.apple.com.akadns.net,REJECT
+HOST,iphonesubmissions.apple.com,REJECT
+HOST,iphonesubmissions.apple.com.akadns.net,REJECT
+HOST,iphonesubmissions.apple.com.mwcname.com,REJECT
+HOST,iphonesubmissions.g.aaplimg.com,REJECT
+HOST,mesu-cdn.apple.com.akadns.net,REJECT
+HOST,mesu-cdn.origin-apple.com.akadns.net,REJECT
+HOST,mesu-lb.apple.com.akadns.net,REJECT
+HOST,mesu.apple.com.akadns.net,REJECT
+HOST,mesu.apple.com.mwcname.com,REJECT
+HOST,mesu.g.aaplimg.com,REJECT
+HOST,ns.itunes.apple.com,REJECT
+HOST,ocsp-cdn.apple.com.akadns.net,REJECT
+HOST,ocsp-cdn.origin-apple.com.akadns.net,REJECT
+HOST,ocsp-lb.apple.com.akadns.net,REJECT
+HOST,ocsp.apple.com,REJECT
+HOST,ocsp.apple.com.akadns.net,REJECT
+HOST,ocsp.apple.com.mwcname.com,REJECT
+HOST,ocsp.g.aaplimg.com,REJECT
+HOST,oscdn.apple.com,REJECT
+HOST,osrecovery.apple.com,REJECT
+HOST,radarsubmissions-cdn.apple.com.akadns.net,REJECT
+HOST,radarsubmissions-cdn.origin-apple.com.akadns.net,REJECT
+HOST,radarsubmissions-lb.apple.com.akadns.net,REJECT
+HOST,radarsubmissions.apple.com,REJECT
+HOST,radarsubmissions.apple.com.akadns.net,REJECT
+HOST,radarsubmissions.apple.com.mwcname.com,REJECT
+HOST,radarsubmissions.g.aaplimg.com,REJECT
+HOST,skl.apple.com,REJECT
+HOST,swcdn.apple.com,REJECT
+HOST,swdist.apple.com,REJECT
+HOST,swdownload.apple.com,REJECT
+HOST,swpost.apple.com,REJECT
+HOST,swscan-cdn.apple.com.akadns.net,REJECT
+HOST,swscan-cdn.origin-apple.com.akadns.net,REJECT
+HOST,swscan-lb.apple.com.akadns.net,REJECT
+HOST,swscan.apple.com,REJECT
+HOST,swscan.apple.com.akadns.net,REJECT
+HOST,swscan.apple.com.mwcname.com,REJECT
+HOST,swscan.g.aaplimg.com,REJECT
+HOST,updates-http.cdn-apple.com,REJECT
+HOST,updates.cdn-apple.com,REJECT
+HOST,xp-cdn.apple.com.akadns.net,REJECT
+HOST,xp-cdn.origin-apple.com.akadns.net,REJECT
+HOST,xp-lb.apple.com.akadns.net,REJECT
+HOST,xp.apple.com.akadns.net,REJECT
+HOST,xp.apple.com.mwcname.com,REJECT
+HOST,xp.g.aaplimg.com,REJECT
+HOST-SUFFIX,appldnld-lb.apple.com.akadns.net,REJECT
+HOST-SUFFIX,appldnld.apple.com,REJECT
+HOST-SUFFIX,appldnld.apple.com.akadns.net,REJECT
+HOST-SUFFIX,appldnld.g.aaplimg.com,REJECT
+HOST-SUFFIX,gdmf.apple.com.akadns.net,REJECT
+HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,REJECT
+HOST-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,REJECT
+HOST-SUFFIX,mesu.apple.com,REJECT
+HOST-SUFFIX,mesu.g.aaplimg.com,REJECT
+HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,REJECT
+HOST-SUFFIX,ocsp.apple.com,REJECT
+HOST-SUFFIX,ocsp.g.aaplimg.com,REJECT
