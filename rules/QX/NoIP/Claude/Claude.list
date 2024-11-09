@@ -5,9 +5,9 @@
 # HOST: 1
 # HOST-SUFFIX: 3
 # TOTAL: 4
-# HOST,cdn.usefathom.com
+# HOST,cdn.usefathom.com,Claude
 
-HOST-SUFFIX,usefathom.com
-HOST-SUFFIX,anthropic.com
-HOST-SUFFIX,claude.ai
-HOST-SUFFIX,claudeusercontent.com
+HOST-SUFFIX,usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,claudeusercontent.com,Claude
