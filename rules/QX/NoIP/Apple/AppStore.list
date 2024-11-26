@@ -8,3 +8,4 @@ HOST,apps.apple.com,AppStore
 HOST,itunes.apple.com,AppStore
 HOST,iosapps.itunes.apple.com,AppStore
 HOST-SUFFIX,apps.apple.com,AppStore
+HOST-SUFFIX,itunes.apple.com,AppStore
