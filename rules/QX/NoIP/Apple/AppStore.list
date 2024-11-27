@@ -13,3 +13,4 @@ HOST-WILDCARD,*.itunes.apple.com,AppStore
 HOST,xp.apple.com,AppStore
 HOST,apps.mzstatic.com,AppStore
 HOST,configuration.apple.com,AppStore
+HOST-SUFFIX,mzstatic.com,AppStore
