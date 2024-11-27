@@ -10,3 +10,6 @@ HOST,iosapps.itunes.apple.com,AppStore
 HOST-SUFFIX,apps.apple.com,AppStore
 HOST-SUFFIX,itunes.apple.com,AppStore
 HOST-WILDCARD,*.itunes.apple.com,AppStore
+HOST,xp.apple.com
+HOST,apps.mzstatic.com
+HOST,configuration.apple.com
