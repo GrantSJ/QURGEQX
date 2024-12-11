@@ -8,3 +8,4 @@ host-suffix,app-measurement.com,Paga
 host,app-measurement.com,Paga
 host-suffix,paga.com,Paga
 host,engine-consumer-api.cloud.gist.build,Paga
+host-suffix,gist.build,Paga
