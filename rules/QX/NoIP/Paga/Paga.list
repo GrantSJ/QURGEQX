@@ -4,6 +4,6 @@ host-suffix,kochava.com,Paga
 host-suffix,mypaga.com,Paga
 host-suffix,customer.io,Paga
 host-suffix,kvaedit.site,Paga
-host,app-measurement.com.Paga
+host-suffix,app-measurement.com,Paga
 host-suffix,paga.com,Paga
 host,engine-consumer-api.cloud.gist.build,Paga
