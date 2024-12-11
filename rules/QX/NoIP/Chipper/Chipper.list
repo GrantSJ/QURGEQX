@@ -11,5 +11,4 @@ host,api.lab.amplitude.com,Chipper
 host-suffix,lab.amplitude.com,Chipper
 host-suffix,chippercash.com,Chipper
 host-suffix,sprig.com,Chipper
-
-  
+host-suffix,bugsnag.com,Chipper 
