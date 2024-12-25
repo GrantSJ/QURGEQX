@@ -1,0 +1,12 @@
+DOMAIN,api2.branch.io
+DOMAIN,api2.amplitude.com
+DOMAIN,api.lab.amplitude.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,lab.amplitude.com
+DOMAIN-SUFFIX,chippercash.com
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,bugsnag.com
