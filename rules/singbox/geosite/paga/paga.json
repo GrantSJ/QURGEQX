@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "app-measurement.com",
+        "engine-consumer-api.cloud.gist.build"
+      ]
+      "domain_suffix": [
+        "kochava.com",
+        "mypaga.com",
+        "customer.io",
+        "kvaedit.site",
+        "app-measurement.com",
+        "paga.com",
+        "gist.build"
+      ]
+    }
+  ]
+}
