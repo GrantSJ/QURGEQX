@@ -1,0 +1,30 @@
+HOST,api2.branch.io,Chipper
+HOST-SUFFIX,branch.io,Chipper
+host-suffix,amplitude.com,Chipper
+host,api2.amplitude.com,Chipper
+host-suffix,sardine.ai,Chipper
+host,suffix,ingest.sentry.io,Chipper
+host-suffix,sentry.io,Chipper
+host,api.lab.amplitude.com,Chipper
+host-suffix,lab.amplitude.com,Chipper
+host-suffix,chippercash.com,Chipper
+host-suffix,sprig.com,Chipper
+host-suffix,bugsnag.com,Chipper 
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "branch.io",
+        "amplitude.com",
+        "sardine.ai",
+        "binance",
+        "binance",
+        "binance",
+        "binanceme",
+        "binancenet",
+   
+      ]
+    }
+  ]
+}
