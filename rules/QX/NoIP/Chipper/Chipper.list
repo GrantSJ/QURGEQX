@@ -5,7 +5,7 @@ HOST-SUFFIX,branch.io,Chipper
 host-suffix,amplitude.com,Chipper
 host,api2.amplitude.com,Chipper
 host-suffix,sardine.ai,Chipper
-host,suffix,ingest.sentry.io,Chipper
+host-suffix,ingest.sentry.io,Chipper
 host-suffix,sentry.io,Chipper
 host,api.lab.amplitude.com,Chipper
 host-suffix,lab.amplitude.com,Chipper
